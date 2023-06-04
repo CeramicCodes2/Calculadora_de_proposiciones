@@ -4,7 +4,7 @@ una calculadora de proposiciones
 # Resuelva facilmente proposiciones o cheque que sus proposiciones son correctas
 por ejemplo:
 
-	 `((~p -> q) -> ~r) v (~q -> r)`
+	 ((~p -> q) -> ~r) v (~q -> r)
    
  
 ![calculadora](https://github.com/CeramicCodes2/Calculadora_de_proposiciones/assets/78993873/ab30563a-3b6a-4288-971c-2c653bd558df)
