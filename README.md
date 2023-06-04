@@ -14,3 +14,11 @@ por ejemplo:
 a mano se tendria que hacer un arduo proceso a menudo suceptible a errores
 
 ![image](https://github.com/CeramicCodes2/Calculadora_de_proposiciones/assets/78993873/f6a3deb1-4a5f-470f-8443-76882df3bd5b)
+
+
+`python calculator_inteligentes.py`
+
+# micropython version
+
+actualmente se trabaja en una version de micropython
+ademas de que se trabaja en actualizar la interfaz grafica 
